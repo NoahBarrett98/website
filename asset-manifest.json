@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.3318cadf.css",
-    "main.js": "/website/static/js/main.24e876b2.js",
-    "static/js/453.69f3745b.chunk.js": "/website/static/js/453.69f3745b.chunk.js",
-    "index.html": "/website/index.html",
-    "main.3318cadf.css.map": "/website/static/css/main.3318cadf.css.map",
-    "main.24e876b2.js.map": "/website/static/js/main.24e876b2.js.map",
-    "453.69f3745b.chunk.js.map": "/website/static/js/453.69f3745b.chunk.js.map"
+    "main.css": "/www.noahbarrett.ca/static/css/main.3318cadf.css",
+    "main.js": "/www.noahbarrett.ca/static/js/main.33075c30.js",
+    "static/js/453.69f3745b.chunk.js": "/www.noahbarrett.ca/static/js/453.69f3745b.chunk.js",
+    "index.html": "/www.noahbarrett.ca/index.html",
+    "main.3318cadf.css.map": "/www.noahbarrett.ca/static/css/main.3318cadf.css.map",
+    "main.33075c30.js.map": "/www.noahbarrett.ca/static/js/main.33075c30.js.map",
+    "453.69f3745b.chunk.js.map": "/www.noahbarrett.ca/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3318cadf.css",
-    "static/js/main.24e876b2.js"
+    "static/js/main.33075c30.js"
   ]
 }
