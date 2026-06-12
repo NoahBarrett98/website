@@ -15,8 +15,8 @@ function App() {
         <div class="bg-white p-4 max-w-2xl w-full">
             <h1 className="font-mono text-2xl font-bold text-gray-800">Hi, I'm Noah :)</h1>
             <p className="font-mono text-gray-600 text-md leading-relaxed mt-8">
-              I am currently a Data Scientist at 
-              <a href="https://radformation.com" className="hover:font-bold"> Radformation</a>, and I am excited by all things AI. I live in Halifax NS, where I am currently trying to build a co-working community called <a href="https://lu.ma/CollectHalifax" className="hover:font-bold">Collect.</a> 
+              I am currently a PhD student in computer science at Dalhousie, and a Co-Founder at
+              <a href="https://thalios.ai/" className="hover:font-bold">Thalios</a>, through both efforts I am working at the intersection of AI and Ocean applications. I live in Halifax NS, where I run a co-working community called <a href="https://lu.ma/CollectHalifax" className="hover:font-bold">Collect.</a> 
               <br />
               <br />
               Some projects I've worked on include:  
@@ -34,11 +34,6 @@ function App() {
             <li>
               <a href="https://github.com/NoahBarrett98" target="_blank" rel="noopener noreferrer" className="font-mono text-gray-600 text-md leading-relaxed mt-6 hover:font-bold">
                 Github
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/noahbarrettx" target="_blank" rel="noopener noreferrer" className="font-mono text-gray-600 text-md leading-relaxed mt-6 hover:font-bold">
-                X (formerly Twitter)
               </a>
             </li>
             <li>
